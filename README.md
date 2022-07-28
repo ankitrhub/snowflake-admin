@@ -1,1 +1,3 @@
-# snowflake-admin
+Useful Snowflake queries. 
+
+
